@@ -26,6 +26,8 @@ public class Main {
 
     int myTotal = (myMinIntValue / 2);
 
+    //Casting:
+    byte myNewByteValue = (byte) (myMinByteValue);
 
   }
 }
