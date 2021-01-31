@@ -4,7 +4,7 @@ public class PoundToKilogram {
 
     double myPound = 190;
     double myKilogram = myPound * 0.453592;
-    System.out.println(myKilogram);
+    System.out.println("Converted kilograms = "myKilogram);
 
   }
 }
