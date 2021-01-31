@@ -1,6 +1,8 @@
 public class Pound-To-Kilogram {
 
   public static void main(String[] args) {
-    
+
+    double myPounds = 190;
+
   }
 }
