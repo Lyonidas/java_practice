@@ -1,4 +1,4 @@
-public class Pound-To-Kilogram {
+public class PoundToKilogram {
 
   public static void main(String[] args) {
 
