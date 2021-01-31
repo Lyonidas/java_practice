@@ -27,7 +27,8 @@ public class Main {
     int myTotal = (myMinIntValue / 2);
 
     //Casting:
-    byte myNewByteValue = (byte) (myMinByteValue);
+    byte myNewByteValue = (byte) (myMinByteValue / 2);
+    short myNewShortValue = (short) (myMinShortValue / 2);
 
   }
 }
