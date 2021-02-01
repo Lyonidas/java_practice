@@ -7,5 +7,12 @@ public class Main {
     int previousResult = result;
     System.out.println("previousResult = " + previousResult);
     result = result - 1;
+    System.out.println(" 3 - 1 = " + result);
+
+    result = result * 10;
+    System.out.println("2 * 10 = " + result);
+
+    result = result / 5;
+    System.out.println("20 / 5 = " + result);
   }
 }
