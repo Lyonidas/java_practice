@@ -33,5 +33,8 @@ public class Main {
 
     result /= 3;
     System.out.println("30 / 3 = " + result);
+
+    result -= 2;
+    System.out.println("10 - 2 = " + result);
   }
 }
