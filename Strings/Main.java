@@ -5,6 +5,8 @@ public class Main {
     String myString = "This is a string";
     System.out.println("myString is equal to " + myString);
     myString = myString + ", and this is more.";
-    //System.out.println("myString is equal to " + myString);
+    System.out.println("myString is equal to " + myString);
+    myString = " \u00A9 2021";
+    System.out.println("myString is equal to " + myString);
   }
 }
