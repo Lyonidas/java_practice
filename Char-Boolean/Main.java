@@ -9,6 +9,8 @@ public class Main {
     System.out.println(myChar);
     System.out.println(myUnicodeChar);
     System.out.println(myCopyrightChar);
+    boolean myTrueBooleanValue = true;
+    boolean myFalseBooleanValue = false;
 
   }
 }
