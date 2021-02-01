@@ -1,4 +1,4 @@
-public class OperatersChallenge {
+public class OperatorsChallenge {
 
   public static void main(String[] args) {
 
