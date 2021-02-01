@@ -8,8 +8,10 @@ public class OperatersChallenge {
     System.out.println("The total is = " + myThirdValue);
     double theRemainder = myThirdValue % 40.00
     System.out.println("The remainder is = " + theRemainder);
-    if () {
-
+    boolean isNoRemainder = (theRemainder == 0) ? true : false;
+    System.out.println("Is no remainder" + isNoRemainder);
+    if (!isNoRemainder) {
+      System.out.println("Got some remainder");
     }
   }
 }
