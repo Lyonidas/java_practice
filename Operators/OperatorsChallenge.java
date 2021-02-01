@@ -9,7 +9,7 @@ public class OperatorsChallenge {
     double theRemainder = myThirdValue % 40.00;
     System.out.println("The remainder is = " + theRemainder);
     boolean isNoRemainder = (theRemainder == 0) ? true : false;
-    System.out.println("Is no remainder" + isNoRemainder);
+    System.out.println("Is no remainder " + isNoRemainder);
     if (!isNoRemainder) {
       System.out.println("Got some remainder");
     }
