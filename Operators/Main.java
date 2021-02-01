@@ -14,5 +14,8 @@ public class Main {
 
     result = result / 5;
     System.out.println("20 / 5 = " + result);
+
+    result = result % 3; //the remainder of (4 % 3) = 1
+    System.out.println("4 % 3 = " + result);
   }
 }
